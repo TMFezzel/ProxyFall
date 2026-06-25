@@ -40,7 +40,7 @@ python ProxyFall.py "C:\path\to\decklist.csv"
 
 If no path is given, the program prompts for one.
 
-Decklist from Archidekt should be exported into CSV using the columns of Scryfall ID and Quantity only.
+**Decklist from Archidekt should be exported into CSV using the columns of Scryfall ID and Quantity only.**
 
 ## Decklist format
 
